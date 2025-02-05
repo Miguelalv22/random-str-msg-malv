@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-malv",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miguelalv22/random-str-msg-malv.git"
+  },
+  "keywords": [],
+  "author": "Miguel Angel Lopez Virgen <miguel.2211.lopez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Miguelalv22/random-str-msg-malv/issues"
+  },
+  "homepage": "https://github.com/Miguelalv22/random-str-msg-malv#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
